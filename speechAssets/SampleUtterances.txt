@@ -2,8 +2,7 @@ AnswerIntent the answer is {Answer}
 AnswerIntent my answer is {Answer}
 AnswerIntent is it {Answer}
 AnswerIntent {Answer} is my answer
-AnswerIntent I think its {Answer}
-AnswerIntent I think it is {Answer}
+AnswerIntent the capital is {Answer}
 AnswerOnlyIntent {Answer}
 
 AMAZON.StartOverIntent start game

@@ -19,10 +19,10 @@
       ]
     },
     {
-      "intent": "DontKnowIntent"
+      "intent": "AMAZON.StartOverIntent"
     },
     {
-      "intent": "AMAZON.StartOverIntent"
+      "intent": "DontKnowIntent"
     },
     {
       "intent": "AMAZON.RepeatIntent"
